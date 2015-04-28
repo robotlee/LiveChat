@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-LiveChat-CocoaAsyncSocket.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-LiveChat-CocoaLumberjack.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-LiveChat-XMPPFramework.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-LiveChat.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>375D849BB046BA7F186C37DB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>99F32FD961681E0CDF288F40</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B59728B54B54B1382629E5AB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E1EA6FE7CBF2CEB2BCAF45FC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

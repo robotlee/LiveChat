@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CB2103E5-4BF6-4619-AF1A-DF659772F608</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LiveChat</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0DB6DABB7537D4747BFCD19FE4885F3FC8BF4FED</key>
+		<string>www.iliferunnersoft.com:LiveChat</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LiveChat.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0DB6DABB7537D4747BFCD19FE4885F3FC8BF4FED</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>www.iliferunnersoft.com:LiveChat</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0DB6DABB7537D4747BFCD19FE4885F3FC8BF4FED</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0DB6DABB7537D4747BFCD19FE4885F3FC8BF4FED</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LiveChat</string>
+		</dict>
+	</array>
+</dict>
+</plist>

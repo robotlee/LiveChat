@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		C4F08D0E6CE17A15B5B87374 /* libPods-LiveChat.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A10EB612B1714F89232BA7AE /* libPods-LiveChat.a */; };
 		E200D43C1AD6B844001DEA34 /* BuddyListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E200D43B1AD6B844001DEA34 /* BuddyListViewController.swift */; };
+		E23435B61AF0802000E3AFAB /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = E23435B51AF0802000E3AFAB /* README.md */; };
 		E26C3CC81ADE3B36006194CA /* ChatViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E26C3CC71ADE3B36006194CA /* ChatViewController.swift */; };
 		E2700A521AEF2AEB0005E090 /* LCBuddy.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2700A511AEF2AEB0005E090 /* LCBuddy.swift */; };
 		E274E7111AD6610500FE7C4F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E274E7101AD6610500FE7C4F /* AppDelegate.swift */; };
@@ -38,6 +39,7 @@
 		92D86ABFCAC13CD23BCA9DDF /* Pods-LiveChat.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LiveChat.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LiveChat/Pods-LiveChat.debug.xcconfig"; sourceTree = "<group>"; };
 		A10EB612B1714F89232BA7AE /* libPods-LiveChat.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-LiveChat.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E200D43B1AD6B844001DEA34 /* BuddyListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BuddyListViewController.swift; sourceTree = "<group>"; };
+		E23435B51AF0802000E3AFAB /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		E26C3CC71ADE3B36006194CA /* ChatViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChatViewController.swift; sourceTree = "<group>"; };
 		E2700A511AEF2AEB0005E090 /* LCBuddy.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LCBuddy.swift; sourceTree = "<group>"; };
 		E274E70B1AD6610500FE7C4F /* LiveChat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LiveChat.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -87,6 +89,7 @@
 		E274E7021AD6610500FE7C4F = {
 			isa = PBXGroup;
 			children = (
+				E23435B51AF0802000E3AFAB /* README.md */,
 				E274E70D1AD6610500FE7C4F /* LiveChat */,
 				E274E7231AD6610500FE7C4F /* LiveChatTests */,
 				E274E70C1AD6610500FE7C4F /* Products */,
@@ -296,6 +299,7 @@
 			files = (
 				E27FCAA61AD7A39C00C0FE62 /* MessageDelegate.swift in Sources */,
 				E274E7131AD6610500FE7C4F /* LoginViewController.swift in Sources */,
+				E23435B61AF0802000E3AFAB /* README.md in Sources */,
 				E2700A521AEF2AEB0005E090 /* LCBuddy.swift in Sources */,
 				E26C3CC81ADE3B36006194CA /* ChatViewController.swift in Sources */,
 				E27FCAA41AD7A32900C0FE62 /* StatusDelegate.swift in Sources */,
